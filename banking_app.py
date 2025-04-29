@@ -1,3 +1,4 @@
+
 import mysql.connector
 
 # Function to check account balance
